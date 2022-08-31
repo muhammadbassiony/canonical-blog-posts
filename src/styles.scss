@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+// Include all of Vanilla Framework
+// Import the framework
+@import "node_modules/vanilla-framework";
+
+@include vanilla;
+
+@include vf-base;
+
+@include vf-p-card;
+@include vf-u-equal-height;
